@@ -1,4 +1,9 @@
-body{
-    padding: 50px;
-    
+body {
+  padding: 50px;
+}
+.images-tamp {
+  width: 120px;
+}
+.product-img-view {
+  width: 130px;
 }
